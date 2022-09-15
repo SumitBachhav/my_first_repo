@@ -7,6 +7,7 @@ int main()
     a=10;
     if(a>5){cout<<"firsT";}
     else{cout<<"hello";}
+    cout<<"new";
 
 
 }
