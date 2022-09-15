@@ -5,7 +5,7 @@ int main()
     cout<<"start";
     int a;
     a=10;
-    if(a>5){cout<<"first";}
+    if(a>5){cout<<"firsT";}
     else{cout<<"hello";}
 
 
